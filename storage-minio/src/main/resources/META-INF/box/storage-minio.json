@@ -1,0 +1,4 @@
+{
+  "pluginInterface": "com.wee0.box.plugins.storage.ICloudStoragePlugin",
+  "pluginImplementation": "com.wee0.box.plugins.storage.minio.MinioStorage"
+}

@@ -1,0 +1,4 @@
+{
+  "pluginInterface": "com.wee0.box.plugins.office.IOfficePlugin",
+  "pluginImplementation": "com.wee0.box.plugins.office.poi.PoiOfficePlugin"
+}
